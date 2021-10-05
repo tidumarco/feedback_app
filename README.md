@@ -1,1 +1,1 @@
-React app to count feedback from user
+React app to count feedback from user.
